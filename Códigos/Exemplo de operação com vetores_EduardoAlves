@@ -1,0 +1,24 @@
+vetor_a = {
+    "i" : 1,
+    "j": 2,
+    "k": 3
+}
+vetor_b = {
+    "i" : 2,
+    "j": 3,
+    "k": 3
+}
+
+def pega_os_numeros(vetor_1, vetor_2):
+    i1 = vetor_1.get("i")
+    j1 = vetor_1.get("j")
+    k1 = vetor_1.get("k")
+    i2 = vetor_2.get("i")
+    j2 = vetor_2.get("j")
+    k2 = vetor_2.get("k")
+    i = (j1* k2) - (k1*j2)
+    j = (k1* i2) - (i1*k2)
+    k = (i1* i2) - (j1*i2)
+    return i, j, k
+teste_1 = pega_os_numeros(vetor_a, vetor_b)
+print(teste_1)
