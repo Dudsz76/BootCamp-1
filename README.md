@@ -13,8 +13,8 @@ Esta seção lista os principais projetos contidos neste repositório. Para aces
 | Projeto | Descrição | Status | Link para o Projeto |
 | :--- | :--- | :--- | :--- |
 | **PortfolioHUB** | Documentação da estrutura do portfólio, segurança e integração GitHub (Esta página). | Em Andamento | [Acessar Documentação](#-2-documentacao-e-governanca-do-portfoliohub) |
-| **[Exemplo de código feito por mim para operação com vetores]** | Código feito na disciplina de algebra linear e gemetria análitica de minha autoria. | Concluído | [Pasta do Projeto 1](https://github.com/Dudsz76/BootCamp-1/edit/main/README.md)) |
-| **[Exemplo de lista de matrizes]** | Código feito para matizes. | Concluído | [Pasta do Projeto 2](https://github.com/Dudsz76/BootCamp-1/edit/main/README.md) |
+| **[Exemplo de código feito por mim para operação com vetores]** | Código feito na disciplina de algebra linear e gemetria análitica de minha autoria. | Concluído | [Pasta do Projeto 1](https://github.com/Dudsz76/BootCamp-1/tree/main/Projeto_1_Exemplo%20_de_c%C3%B3digo_matrizes)) |
+| **[Exemplo de lista de matrizes]** | Código feito para matizes. | Concluído | [Pasta do Projeto 2](https://github.com/Dudsz76/BootCamp-1/tree/main/Projeto_2_Exemplo_de_cdogio_vetores) |
 
 ---
 
