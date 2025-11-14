@@ -25,10 +25,10 @@ Esta seção detalha os processos de implementação, segurança e colaboração
 | Requisito do Desafio | Documentação/Integração | Status |
 | :--- | :--- | :--- |
 | **2. Configuração Inicial e Integração** | [**SETUP.md**](./SETUP.md) - Detalhamento da criação do ambiente Git e integração com o GitHub. | Pendente |
-| **3. Gestão de Usuários e Segurança** | [cite_start][**SECURITY.md**](./SECURITY.md) - Políticas de segurança, controle de acesso e práticas de gestão de usuários (branches protegidas, permissões)[cite: 36, 39]. | Pendente |
-| **4. Compartilhamento e Controle de Acesso** | [**CONTRIBUTING.md**](./CONTRIBUTING.md) - Como colaboradores podem sugerir alterações (Fluxo de *Pull Request* e *Code Review*). | Pendente |
+| **3. Gestão de Usuários e Segurança** | [https://github.com/Dudsz76/BootCamp-1/blob/main/SECURITY](./SECURITY.md) - Políticas de segurança, controle de acesso e práticas de gestão de usuários (branches protegidas, permissões)[cite: 36, 39]. | Pendente |
+| **4. Compartilhamento e Controle de Acesso** | [https://github.com/Dudsz76/BootCamp-1/blob/main/CONTRIBUTING](./CONTRIBUTING.md) - Como colaboradores podem sugerir alterações (Fluxo de *Pull Request* e *Code Review*). | Pendente |
 | **Integração com o Site (Front-End)** | [Link para o Portfólio no Canva](https://meuportfolioeduardoalves.my.canva.site) | Concluído |
-| **Apresentação Final (Revisão)** | [Link para a Apresentação no YouTube](https://youtu.be/5MmMpCfgPNw) | Concluído |
+| **Apresentação Final (Revisão)** | [Link para a Apresentação no YouTube]() | Concluído |
 
 ---
 
@@ -39,7 +39,7 @@ O controle de versão e a colaboração são realizados integralmente via Git e 
 * **Branch Principal (`main`):** Esta branch é protegida e só aceita alterações via *Pull Requests* revisados, garantindo a integridade do portfólio.
 * **Fluxo de Contribuição:** Novas funcionalidades ou projetos devem ser desenvolvidos em *branches* separadas e então submetidos à revisão.
 
-Para mais detalhes sobre como colaborar, consulte o arquivo [**CONTRIBUTING.md**](./CONTRIBUTING.md).
+Para mais detalhes sobre como colaborar, consulte o arquivo [https://github.com/Dudsz76/BootCamp-1/blob/main/CONTRIBUTING](./CONTRIBUTING.md).
 
 ---
 
