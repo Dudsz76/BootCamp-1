@@ -25,8 +25,8 @@ Esta seção detalha os processos de implementação, segurança e colaboração
 | Requisito do Desafio | Documentação/Integração | Status |
 | :--- | :--- | :--- |
 | **2. Configuração Inicial e Integração** | [**SETUP.md**](./SETUP.md) - Detalhamento da criação do ambiente Git e integração com o GitHub. | Pendente |
-| **3. Gestão de Usuários e Segurança** | [**SECURITY**](./SECURITY.md) - Políticas de segurança, controle de acesso e práticas de gestão de usuários (branches protegidas, permissões)[cite: 36, 39]. | Pendente |
-| **4. Compartilhamento e Controle de Acesso** | [**Contributing**](./CONTRIBUTING.md) - Como colaboradores podem sugerir alterações (Fluxo de *Pull Request* e *Code Review*). | Pendente |
+| **3. Gestão de Usuários e Segurança** | [**SECURITY**](./SECURITY.md) - Políticas de segurança, controle de acesso e práticas de gestão de usuários (branches protegidas, permissões)[cite: 36, 39]. | Concluído |
+| **4. Compartilhamento e Controle de Acesso** | [**Contributing**](./CONTRIBUTING.md) - Como colaboradores podem sugerir alterações (Fluxo de *Pull Request* e *Code Review*). | Concluído |
 | **Integração com o Site (Front-End)** | [Link para o Portfólio no Canva](https://meuportfolioeduardoalves.my.canva.site) | Concluído |
 | **Apresentação Final (Revisão)** | [Link para a Apresentação no YouTube]() | Concluído |
 
